@@ -1,0 +1,22 @@
+{
+  "name": "session-filter",
+  "label": "Session Filter",
+  "type": "widget",
+  "version": "1.20.0",
+  "exbVersion": "1.20.0",
+  "author": "WSRB",
+  "description": "Silently filters map layers by logged-in username",
+  "copyright": "",
+  "license": "",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 200,
+    "height": 50
+  }
+}
